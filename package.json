@@ -1,5 +1,5 @@
 {
-  "name": "SuWei",
+  "name": "suwei",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "",
@@ -85,5 +85,18 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaeSoul/SuWei.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaeSoul/SuWei/issues"
+  },
+  "homepage": "https://github.com/FaeSoul/SuWei#readme"
 }
